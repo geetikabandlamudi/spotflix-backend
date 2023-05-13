@@ -8,9 +8,9 @@ THUMBNAIL_BUCKET_NAME = 'thumbnails-bucket'
 PREVIEW_BUCKET_NAME = 'preview-bucket'
 
 def os_connection():
-    host = "search-music-data-5idrxdn22l7tvdfrryyhb7ugla.us-east-1.es.amazonaws.com"
+    host = "<url>"
     port = 443
-    auth = ("violetorigin", "Blueorigin1!")
+    auth = ("uname", "pwd")
     
     client = OpenSearch(
         hosts = [{"host": host, "port": port}],
