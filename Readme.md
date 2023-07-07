@@ -14,15 +14,15 @@ Implementation and Features
 ---------------------------
 
 
-Upload music videos
-Automatic ML based music analysis for genre tagging
-Automated generation of thumbnails
-Video processing to generate preview
-Transcribing video song lyrics
-Recommendation engine based on active playing song
-Search music based on artist, title, lyrics
-Autoplay feature
-View lyrics of active playing song
+- Upload music videos
+- Automatic ML based music analysis for genre tagging
+- Automated generation of thumbnails
+- Video processing to generate preview
+- Transcribing video song lyrics
+- Recommendation engine based on active playing song
+- Search music based on artist, title, lyrics
+- Autoplay feature
+- View lyrics of active playing song
 
 AWS Services 
 ------------
